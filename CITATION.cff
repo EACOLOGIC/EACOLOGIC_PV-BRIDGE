@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or framework architecture, please cite it as below."
+authors:
+  - family-names: "Müller"
+    given-names: "Daniel"
+    email: "infomuellerdaniel@gmail.com"
+title: "E4COLOGIC Framework & pv_bridge"
+version: 1.0.0
+date-released: 2026-10-07
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18074797
+  - type: doi
+    value: 10.5281/zenodo.18375285
+  - type: doi
+    value: 10.5281/zenodo.18386317
+  - type: doi
+    value: 10.5281/zenodo.18388533
+  - type: doi
+    value: 10.5281/zenodo.20057101
+repository-code: "https://github.com/e4zy13ot/eacologic-core"

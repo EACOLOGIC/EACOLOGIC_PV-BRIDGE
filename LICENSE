@@ -1,0 +1,23 @@
+Copyright (c) 2026 Daniel Müller. All Rights Reserved.
+
+CONFIDENTIAL AND PROPRIETARY SPECIFICATION AND ARCHITECTURE.
+
+The specifications, contracts, and documentation in this repository are the exclusive 
+intellectual property of Daniel Müller.
+
+1. NO COMMERCIAL USE:
+   No part of this repository, its mathematical models, specifications, or derived 
+   implementations may be copied, reproduced, modified, distributed, or commercially 
+   exploited without an explicit, signed Commercial License Agreement from the copyright holder.
+
+2. EVALUATION & ACADEMIC USE:
+   Academic reference and research evaluation are permitted solely under proper 
+   citation of the associated Zenodo DOIs listed in CITATION.cff.
+
+3. ENTERPRISE INQUIRIES & COMMERCIAL LICENSING:
+   For commercial licensing, enterprise integration, consulting, or access to the 
+   proprietary core implementation, contact:
+
+   Daniel Müller
+   Email: infomuellerdaniel@gmail.com
+   GitHub: EACOLOGIC

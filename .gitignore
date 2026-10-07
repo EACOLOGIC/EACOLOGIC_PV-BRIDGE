@@ -1,0 +1,22 @@
+target/
+**/target/
+Cargo.lock
+
+# Massive CFD / Wetter / HPC Daten
+*.nc
+*.hdf5
+*.h5
+
+# Python & Environment
+__pycache__/
+**/__pycache__/
+venv/
+.env
+
+# OS Caches
+.DS_Store
+Thumbs.db
+# Interne Quellcodes & Papers vom oeffentlichen Repo aussperren
+02_FRAMEWORK/
+eacologic_papers/
+*.tmp.driveupload
